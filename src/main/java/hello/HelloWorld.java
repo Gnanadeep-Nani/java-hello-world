@@ -1,4 +1,3 @@
-// File: HelloWorld.java
 package hello;
 
 import org.joda.time.LocalTime;
@@ -12,4 +11,3 @@ public class HelloWorld {
         System.out.println(greeter.sayHello());
     }
 }
-
